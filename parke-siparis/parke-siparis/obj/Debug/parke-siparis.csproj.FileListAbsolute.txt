@@ -1,0 +1,10 @@
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\bin\Debug\parke-siparis.exe.config
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\bin\Debug\parke-siparis.exe
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\bin\Debug\parke-siparis.pdb
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke-siparis.csproj.AssemblyReference.cache
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke_siparis.Form1.resources
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke_siparis.Properties.Resources.resources
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke-siparis.csproj.GenerateResource.cache
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke-siparis.csproj.CoreCompileInputs.cache
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke-siparis.exe
+C:\Users\esaty\source\repos\parke-siparis\parke-siparis\obj\Debug\parke-siparis.pdb
